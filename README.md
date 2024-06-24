@@ -1,8 +1,20 @@
-# Pac-man (2D)
+# Pacman Game (2D)
 
-> Pac-Man is a maze action game developed and released by Namco for arcades in 1980. The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. Eating large flashing dots called "Power Pellets" causes the ghosts to turn blue, allowing Pac-Man to eat them for bonus points.
+> Description
+This project is a clone of the classic Pacman game implemented in Unity. It closely follows the original gameplay mechanics where the player controls Pacman to navigate a maze, eat dots, avoid ghosts, and collect power-ups.
 
-- **Topics**: AI, Tilemaps, Sprites
-- **Version**: Unity 2021.3 (LTS)
-- [**Download**](https://github.com/zigurous/unity-pacman-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/TKt_VlMn_aA)
+**Features**
+Faithful recreation of Pacman gameplay mechanics.
+Classic 2D graphics and animations.
+Score tracking.
+Gameplay Instructions
+Use the arrow keys to move Pacman.
+Eat all dots in the maze to complete the level.
+Avoid ghosts; if Pacman collides with a ghost without a power-up, he loses a life.
+Eating power pellets allows Pacman to eat ghosts for a short duration.
+Complete as many levels as possible and try to achieve the highest score!
+
+**Development**
+Built With
+Unity 2022.3 (LTS)
+C# scripting
