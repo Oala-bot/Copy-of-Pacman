@@ -1,6 +1,5 @@
 # Pacman Game (2D)
 
-> Description
 This project is a clone of the classic Pacman game implemented in Unity. It closely follows the original gameplay mechanics where the player controls Pacman to navigate a maze, eat dots, avoid ghosts, and collect power-ups.
 
 **Features**
